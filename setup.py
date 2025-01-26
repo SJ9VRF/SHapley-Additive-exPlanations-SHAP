@@ -8,12 +8,10 @@ setup(
         "numpy>=1.19.2",
         "scikit-learn>=0.24.0",
     ],
-    author="Your Name",
-    author_email="your.email@example.com",
     description="Pure Python implementation of SHAP",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/username/shap-implementation",
+    url="https://github.com/SJ9VRF/shap-implementation",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
