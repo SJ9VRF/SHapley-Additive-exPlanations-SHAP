@@ -1,3 +1,4 @@
+# Core SHAP implementation
 """
 SHAP (SHapley Additive exPlanations) implementation for machine learning model interpretation.
 This module provides comprehensive functionality for explaining model predictions using SHAP values.
