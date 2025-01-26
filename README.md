@@ -1,5 +1,8 @@
 # SHAP Implementation
 
+![Screenshot_2025-01-26_at_4 35 27_AM-removebg-preview](https://github.com/user-attachments/assets/a69ec5dd-1ba4-426d-bfa4-a2ce3dad7c94)
+
+
 Pure Python implementation of SHAP (SHapley Additive exPlanations) for machine learning model interpretation.
 
 ## Features
